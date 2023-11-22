@@ -1,1 +1,1 @@
-cd latihan
+// cd latihan
